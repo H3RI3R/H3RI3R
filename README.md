@@ -1,6 +1,6 @@
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+![Banner](https://raw.githubusercontent.com/H3RI3R/H3RI3R/main/assets/myintro.gif.gif)
 
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> Hello there!
+### <img alt="handwavegif" src="https://raw.githubusercontent.com/H3RI3R/H3RI3R/main/assets/myintro.gif.gif" width="40" align="left"/> Hello there!
 ![version :2026](https://img.shields.io/badge/version-2026-informational)&nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=H3RI3R&color=blue)&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/H3RI3R?label=follow&style=social)](https://github.com/H3RI3R)&nbsp;
