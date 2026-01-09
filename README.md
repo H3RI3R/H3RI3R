@@ -11,7 +11,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I am a **Java Backend / Full Stack Developer** with **1.5+ years of experience** working on real-world, production-grade applications.  
-💻 &nbsp; Currently working at **Scriza Pvt. Ltd.**, building scalable backend systems using **Java, Spring Boot, and Hibernate**.  
 🔐 &nbsp; Experienced in **REST API development, JWT-based authentication, and Spring Security**.  
 ⚡ &nbsp; Performance-focused developer with hands-on experience in **Redis caching and SQL optimization**.  
 ☁️ &nbsp; Comfortable with **Linux deployments, Apache/Nginx, and CI/CD pipelines using Jenkins & GitLab**.  
